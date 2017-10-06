@@ -1,0 +1,48 @@
+footer{
+	position : fixed;
+}
+
+.dropdown a{
+	color : grey;
+	padding : 10px;
+}
+.navbar-brand{
+	margin-left : 2%;
+}
+
+td a {
+	text-decoration : none;
+	color : black;
+}
+
+td{
+	text-align: center;
+	vertical-align: center;
+}
+
+td a:hover{
+	color : grey;
+	text-decoration : none;
+
+}
+
+.card-header{
+	background-color: #5C9BD1;
+	color : white;
+}
+
+th{
+	text-align: center;
+	vertical-align: center;
+	color : grey;
+}
+
+.mr-5 p {
+	color : grey;
+	font-weight: 600;
+	font-size : 17px;
+}
+.data{
+	color :#5C9BD1 ;
+    font-weight: 400;
+}
